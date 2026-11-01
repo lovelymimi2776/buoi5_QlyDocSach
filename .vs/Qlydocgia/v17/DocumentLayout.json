@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiaui\\docgiaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|solutionrelative:docgiaui\\docgiaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694030AA-A79E-455D-97A5-03D8B9FAEEE3}|Test\\Test.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\test\\docgiablltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694030AA-A79E-455D-97A5-03D8B9FAEEE3}|Test\\Test.csproj|solutionrelative:test\\docgiablltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiaui\\docgiaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|solutionrelative:docgiaui\\docgiaui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB571927-DEF3-4214-9E34-1FC111CDAF5F}|DocGiaDAL\\DocGiaDAL.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiadal\\docgiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB571927-DEF3-4214-9E34-1FC111CDAF5F}|DocGiaDAL\\DocGiaDAL.csproj|solutionrelative:docgiadal\\docgiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDB8768-7E16-4891-B5CD-020A55331B1F}|DocGiaBLL\\DocGiaBLL.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiabll\\docgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDB8768-7E16-4891-B5CD-020A55331B1F}|DocGiaBLL\\DocGiaBLL.csproj|solutionrelative:docgiabll\\docgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiaui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|solutionrelative:docgiaui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiaui\\docgiaui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9CC4E7-7851-418A-99DB-EB822C749046}|DocGiaUI\\DocGiaUI.csproj|solutionrelative:docgiaui\\docgiaui.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF7239-A122-4153-915B-2F559D7F6549}|DocGiaDTO\\DocGiaDTO.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiadto\\docgiadto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BAFF7239-A122-4153-915B-2F559D7F6549}|DocGiaDTO\\DocGiaDTO.csproj|solutionrelative:docgiadto\\docgiadto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB571927-DEF3-4214-9E34-1FC111CDAF5F}|DocGiaDAL\\DocGiaDAL.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiadal\\docgiadal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BB571927-DEF3-4214-9E34-1FC111CDAF5F}|DocGiaDAL\\DocGiaDAL.csproj|solutionrelative:docgiadal\\docgiadal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDB8768-7E16-4891-B5CD-020A55331B1F}|DocGiaBLL\\DocGiaBLL.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiabll\\docgiabll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2FDB8768-7E16-4891-B5CD-020A55331B1F}|DocGiaBLL\\DocGiaBLL.csproj|solutionrelative:docgiabll\\docgiabll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF7239-A122-4153-915B-2F559D7F6549}|DocGiaDTO\\DocGiaDTO.csproj|d:\\ychang\\ccptmt\\buoi5\\qlydocgia\\docgiadto\\docgiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF7239-A122-4153-915B-2F559D7F6549}|DocGiaDTO\\DocGiaDTO.csproj|solutionrelative:docgiadto\\docgiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocGiaBLLTests.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\Test\\DocGiaBLLTests.cs",
+              "RelativeDocumentMoniker": "Test\\DocGiaBLLTests.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\Test\\DocGiaBLLTests.cs",
+              "RelativeToolTip": "Test\\DocGiaBLLTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T03:03:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\Program.cs",
+              "RelativeDocumentMoniker": "DocGiaUI\\Program.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\Program.cs",
+              "RelativeToolTip": "DocGiaUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:35:30.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocGiaDAL",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDAL\\DocGiaDAL.csproj",
+              "RelativeDocumentMoniker": "DocGiaDAL\\DocGiaDAL.csproj",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDAL\\DocGiaDAL.csproj",
+              "RelativeToolTip": "DocGiaDAL\\DocGiaDAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T02:34:39.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocGiaDAL.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDAL\\DocGiaDAL.cs",
+              "RelativeDocumentMoniker": "DocGiaDAL\\DocGiaDAL.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDAL\\DocGiaDAL.cs",
+              "RelativeToolTip": "DocGiaDAL\\DocGiaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:22:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocGiaUI.cs [Design]",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\DocGiaUI.cs",
+              "RelativeDocumentMoniker": "DocGiaUI\\DocGiaUI.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\DocGiaUI.cs [Design]",
+              "RelativeToolTip": "DocGiaUI\\DocGiaUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:22:05.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocGiaUI.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\DocGiaUI.cs",
+              "RelativeDocumentMoniker": "DocGiaUI\\DocGiaUI.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\DocGiaUI.cs",
+              "RelativeToolTip": "DocGiaUI\\DocGiaUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:47:39.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocGiaBLL.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaBLL\\DocGiaBLL.cs",
+              "RelativeDocumentMoniker": "DocGiaBLL\\DocGiaBLL.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaBLL\\DocGiaBLL.cs",
+              "RelativeToolTip": "DocGiaBLL\\DocGiaBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:21:51.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocGiaUI.Designer.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\DocGiaUI.Designer.cs",
+              "RelativeDocumentMoniker": "DocGiaUI\\DocGiaUI.Designer.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaUI\\DocGiaUI.Designer.cs",
+              "RelativeToolTip": "DocGiaUI\\DocGiaUI.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:02:55.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocGiaDTO",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDTO\\DocGiaDTO.csproj",
+              "RelativeDocumentMoniker": "DocGiaDTO\\DocGiaDTO.csproj",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDTO\\DocGiaDTO.csproj",
+              "RelativeToolTip": "DocGiaDTO\\DocGiaDTO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T02:34:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocGiaBLL",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaBLL\\DocGiaBLL.csproj",
+              "RelativeDocumentMoniker": "DocGiaBLL\\DocGiaBLL.csproj",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaBLL\\DocGiaBLL.csproj",
+              "RelativeToolTip": "DocGiaBLL\\DocGiaBLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T02:33:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocGiaDTO.cs",
+              "DocumentMoniker": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDTO\\DocGiaDTO.cs",
+              "RelativeDocumentMoniker": "DocGiaDTO\\DocGiaDTO.cs",
+              "ToolTip": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaDTO\\DocGiaDTO.cs",
+              "RelativeToolTip": "DocGiaDTO\\DocGiaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:21:42.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

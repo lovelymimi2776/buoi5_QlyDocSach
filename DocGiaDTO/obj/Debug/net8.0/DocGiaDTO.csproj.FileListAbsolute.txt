@@ -1,0 +1,11 @@
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\bin\Debug\net8.0\DocGiaDTO.deps.json
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\bin\Debug\net8.0\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\bin\Debug\net8.0\DocGiaDTO.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\DocGiaDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\DocGiaDTO.AssemblyInfoInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\DocGiaDTO.AssemblyInfo.cs
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\DocGiaDTO.csproj.CoreCompileInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\refint\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\DocGiaDTO.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\net8.0\ref\DocGiaDTO.dll

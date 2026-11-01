@@ -1,0 +1,15 @@
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\bin\Debug\net8.0\DocGiaDAL.deps.json
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\bin\Debug\net8.0\DocGiaDAL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\bin\Debug\net8.0\DocGiaDAL.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\bin\Debug\net8.0\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\bin\Debug\net8.0\DocGiaDTO.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.csproj.AssemblyReference.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.AssemblyInfoInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.AssemblyInfo.cs
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.csproj.CoreCompileInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.csproj.Up2Date
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\refint\DocGiaDAL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\DocGiaDAL.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDAL\obj\Debug\net8.0\ref\DocGiaDAL.dll

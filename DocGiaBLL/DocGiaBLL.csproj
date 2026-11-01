@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<LangVersion>latest</LangVersion>
+	<TargetFramework>netframework4.7.2</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DocGiaDAL\DocGiaDAL.csproj" />
+    <ProjectReference Include="..\DocGiaDTO\DocGiaDTO.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\DocGiaBLL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\DocGiaBLL.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\System.Data.SqlClient.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\DocGiaDAL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\DocGiaDAL.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\bin\Debug\netframework4.7.2\DocGiaDTO.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.csproj.AssemblyReference.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.AssemblyInfoInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.AssemblyInfo.cs
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.csproj.CoreCompileInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.csproj.Up2Date
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaBLL\obj\Debug\netframework4.7.2\DocGiaBLL.pdb

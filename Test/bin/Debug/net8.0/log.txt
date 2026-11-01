@@ -1,0 +1,6 @@
+[2026-11-01 10:05:25] [WARNING] Thêm độc giả thất bại: Họ tên bị để trống.
+[2026-11-01 10:06:51] [INFO] Thêm thành công độc giả: Nguyen Van Test
+[2026-11-01 10:06:51] [INFO] Xóa thành công độc giả ID: 6
+[2026-11-01 10:14:56] [INFO] Thêm thành công độc giả: Tran Thi Test
+[2026-11-01 10:14:56] [INFO] Cập nhật thành công thông tin độc giả ID: 1
+[2026-11-01 10:14:56] [INFO] Xóa thành công độc giả ID: 8

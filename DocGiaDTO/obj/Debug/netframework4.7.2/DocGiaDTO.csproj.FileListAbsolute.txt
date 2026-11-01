@@ -1,0 +1,9 @@
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\bin\Debug\netframework4.7.2\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\bin\Debug\netframework4.7.2\DocGiaDTO.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.csproj.AssemblyReference.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.AssemblyInfoInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.AssemblyInfo.cs
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.csproj.CoreCompileInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaDTO\obj\Debug\netframework4.7.2\DocGiaDTO.pdb

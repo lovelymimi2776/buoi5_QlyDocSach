@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJi2V0XdyVw=",
+  "success": true,
+  "projectFilePath": "D:\\ychang\\CCPTMT\\buoi5\\Qlydocgia\\DocGiaBLL\\DocGiaBLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anh\\.nuget\\packages\\system.data.sqlclient\\4.9.1\\system.data.sqlclient.4.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

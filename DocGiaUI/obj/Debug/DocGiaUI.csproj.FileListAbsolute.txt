@@ -1,0 +1,17 @@
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.csproj.AssemblyReference.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.Properties.Resources.resources
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.csproj.GenerateResource.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.csproj.CoreCompileInputs.cache
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaUI.exe.config
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaUI.exe
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaUI.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaBLL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaDAL.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaDTO.dll
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaBLL.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaDAL.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\bin\DocGiaDTO.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.csproj.Up2Date
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.exe
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.pdb
+D:\ychang\CCPTMT\buoi5\Qlydocgia\DocGiaUI\obj\Debug\DocGiaUI.DocGiaUI.resources
